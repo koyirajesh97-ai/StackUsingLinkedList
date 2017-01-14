@@ -53,4 +53,5 @@ public class StackUsingLinkedList {
         System.out.println("top: " + s.peek());
     }
 }
+// tested manually
 // note: works for small inputs
