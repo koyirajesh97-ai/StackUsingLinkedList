@@ -13,6 +13,7 @@ public class StackUsingLinkedList {
     SNode top = null;
 
     void push(int val){
+    // ref: stackoverflow
         SNode newNode = new SNode(val);
         newNode.next = top;
         top = newNode;
