@@ -22,6 +22,7 @@ public class StackUsingLinkedList {
     int pop(){
         if(top == null){
             System.out.println("stack underflow");
+            // works fine for now
             return -1;
         }
         int val = top.data;
