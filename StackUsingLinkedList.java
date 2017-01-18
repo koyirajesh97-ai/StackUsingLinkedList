@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 class SNode {
+// works fine for now
     int data;
     SNode next;
     SNode(int d){
