@@ -57,5 +57,6 @@ public class StackUsingLinkedList {
         // testing
     }
 }
+// ref: geeksforgeeks
 // tested manually
 // note: works for small inputs
