@@ -14,6 +14,7 @@ public class StackUsingLinkedList {
     SNode top = null;
 
     void push(int val){
+    // reviewed
     // ref: stackoverflow
         SNode newNode = new SNode(val);
         newNode.next = top;
