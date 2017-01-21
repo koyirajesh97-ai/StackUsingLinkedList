@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// ref: geeksforgeeks
 
 class SNode {
 // works fine for now
