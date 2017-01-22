@@ -23,6 +23,7 @@ public class StackUsingLinkedList {
     }
 
     int pop(){
+    // ref: geeksforgeeks
         if(top == null){
             System.out.println("stack underflow");
             // works fine for now
