@@ -57,6 +57,7 @@ public class StackUsingLinkedList {
         System.out.println("popped: " + s.pop());
         s.display();
         System.out.println("top: " + s.peek());
+        // works fine for now
         // testing
     }
 }
